@@ -1,4 +1,7 @@
-# EDIN
-F&B Mobile Application Connected to a Database that Collects Data, later Visualized on a Website showing Statistics and Forecasting Analysis using Machine Learning 
+The EDIN application is a revolutionary mobile platform that aims to enhance the dining experience for customers at restaurants. It is built using React Native, a popular JavaScript framework that allows for the creation of cross-platform mobile applications. The app is designed to be used in a very straightforward manner - customers simply need to scan the QR code of the restaurant they are visiting, and the menu will appear on their device. From there, they can easily place their order directly through the app.
+
+In addition to providing a convenient ordering system for customers, the EDIN app also connects to a database that collects data about the restaurant and its customers. This data is later analyzed and visualized on a website, using advanced machine learning techniques to provide valuable insights and forecasting analysis. This information can be used by the restaurant to make informed decisions about menu selection, pricing, and other important factors that can impact the overall dining experience.
+
+Overall, the EDIN application is a powerful tool that helps restaurants to provide a better experience for their customers, while also gathering valuable data that can be used to improve the business. Whether you are a restaurant owner or simply a customer looking for a more streamlined dining experience, the EDIN app is definitely worth checking out.
 
 ![EDINFinal](https://user-images.githubusercontent.com/70109848/147990527-0153b4e0-a6e1-43c5-a682-b9af57bd8603.png)
